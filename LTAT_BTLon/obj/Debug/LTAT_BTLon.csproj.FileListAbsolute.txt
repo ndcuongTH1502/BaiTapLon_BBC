@@ -1,0 +1,9 @@
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTAT\LTAT_BTLon\LTAT_BTLon\bin\Debug\LTAT_BTLon.exe.config
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTAT\LTAT_BTLon\LTAT_BTLon\obj\Debug\LTAT_BTLon.csprojResolveAssemblyReference.cache
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTAT\LTAT_BTLon\LTAT_BTLon\obj\Debug\LTAT_BTLon.Form1.resources
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTAT\LTAT_BTLon\LTAT_BTLon\obj\Debug\LTAT_BTLon.Properties.Resources.resources
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTAT\LTAT_BTLon\LTAT_BTLon\obj\Debug\LTAT_BTLon.csproj.GenerateResource.Cache
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTAT\LTAT_BTLon\LTAT_BTLon\bin\Debug\LTAT_BTLon.exe
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTAT\LTAT_BTLon\LTAT_BTLon\bin\Debug\LTAT_BTLon.pdb
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTAT\LTAT_BTLon\LTAT_BTLon\obj\Debug\LTAT_BTLon.exe
+C:\Users\ben\Desktop\3ndYr_Exam2\MONHOC\LTAT\LTAT_BTLon\LTAT_BTLon\obj\Debug\LTAT_BTLon.pdb
